@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android" android:background="@drawable/im" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ListView android:id="@+id/in" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0xa01" android:layout_x="6dp" android:layout_y="6dp" />
+    <TextView android:textAppearance="?unknown_attr_ref: 1010040" android:id="@+id/textView1" android:layout_width="UNKNOWN_DATA_0x7201" android:layout_height="UNKNOWN_DATA_0x2e01" android:text="Device1" android:layout_x="21dp" android:layout_y="22dp" />
+    <ToggleButton android:id="@+id/toggle" android:layout_width="UNKNOWN_DATA_0x5801" android:layout_height="wrap_content" android:textOn="ON" android:textOff="OFF" android:layout_x="21dp" android:layout_y="60dp" />
+    <TextView android:textAppearance="?unknown_attr_ref: 1010040" android:id="@+id/textView2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Device2" android:layout_x="202dp" android:layout_y="22dp" />
+    <ToggleButton android:id="@+id/toggle1" android:layout_width="UNKNOWN_DATA_0x5801" android:layout_height="wrap_content" android:textOn="ON" android:textOff="OFF" android:layout_x="193dp" android:layout_y="61dp" />
+    <TextView android:textAppearance="?unknown_attr_ref: 1010040" android:id="@+id/textView3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Device3" android:layout_x="21dp" android:layout_y="122dp" />
+    <TextView android:textAppearance="?unknown_attr_ref: 1010040" android:id="@+id/textView4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Device4" android:layout_x="200dp" android:layout_y="126dp" />
+    <ToggleButton android:id="@+id/toggle2" android:layout_width="UNKNOWN_DATA_0x5801" android:layout_height="wrap_content" android:textOn="ON" android:textOff="OFF" android:layout_x="21dp" android:layout_y="158dp" />
+    <ToggleButton android:id="@+id/toggle3" android:layout_width="UNKNOWN_DATA_0x5801" android:layout_height="wrap_content" android:textOn="ON" android:textOff="OFF" android:layout_x="196dp" android:layout_y="160dp" />
+    <TextView android:textAppearance="?unknown_attr_ref: 1010040" android:id="@+id/textView5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Device5" android:layout_x="26dp" android:layout_y="217dp" />
+    <TextView android:textAppearance="?unknown_attr_ref: 1010040" android:id="@+id/textView6" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Device6" android:layout_x="199dp" android:layout_y="217dp" />
+    <ToggleButton android:id="@+id/toggle4" android:layout_width="UNKNOWN_DATA_0x5801" android:layout_height="wrap_content" android:textOn="ON" android:textOff="OFF" android:layout_x="22dp" android:layout_y="251dp" />
+    <ToggleButton android:id="@+id/toggle5" android:layout_width="UNKNOWN_DATA_0x5801" android:layout_height="wrap_content" android:textOn="ON" android:textOff="OFF" android:layout_x="193dp" android:layout_y="254dp" />
+    <TextView android:textAppearance="?unknown_attr_ref: 1010040" android:id="@+id/textView7" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Device7" android:layout_x="26dp" android:layout_y="306dp" />
+    <ToggleButton android:id="@+id/toggle6" android:layout_width="UNKNOWN_DATA_0x5801" android:layout_height="wrap_content" android:textOn="ON" android:textOff="OFF" android:layout_x="26dp" android:layout_y="345dp" />
+    <TextView android:textAppearance="?unknown_attr_ref: 1010040" android:id="@+id/textView8" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Device8" android:layout_x="198dp" android:layout_y="310dp" />
+    <ToggleButton android:id="@+id/toggle7" android:layout_width="UNKNOWN_DATA_0x5801" android:layout_height="wrap_content" android:textOn="ON" android:textOff="OFF" android:layout_x="193dp" android:layout_y="342dp" />
+</AbsoluteLayout>
